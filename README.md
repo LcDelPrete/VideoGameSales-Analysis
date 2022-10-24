@@ -1,2 +1,2 @@
-# VideoGameSales-Analysis
-This is a study/portfolio data science project.
+# VideoGame Sales Analysis
+This is my first data science project.
